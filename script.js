@@ -12,7 +12,7 @@ function sendMessage() {
 }
 
 function gameStart(){
-    window.open('https:/www.google.com','_blank');
+    window.open('https://drive.google.com/file/d/1o6oTOLWqxHNbbMo21T5ehM3_3S6Wgbtg/view?usp=sharing','_blank');
 }
 
 
